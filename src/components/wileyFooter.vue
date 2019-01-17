@@ -4,12 +4,11 @@
       <div class="footer-links footer__col1">
 
         <ul>
-          <li><a href="./about_wiley.html">О нас </a></li>
-          <li><a href="./index.html">Главная</a></li>
-          <li><a href="./Career.html">Вакансии</a></li>
-          <li><a href="http://eu.wiley.com/WileyCDA/Section/id-302256.html">Брэнды</a></li>
-          <li><a href="Contacts.html">Контакты</a></li>
-          <li><a href="./Offices.html">Офисы компании</a></li>
+          <li><a href="">О компании </a></li>
+          <li><a href="">Продукты</a></li>
+          <li><a href="">Вакансии</a></li>
+          <li><a href="">Связаться с нами</a></li>
+          <li><a href="">wiley.com</a></li>
         </ul>
       </div>
 
