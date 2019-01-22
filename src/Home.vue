@@ -1,11 +1,13 @@
 <template>
   <div id="container">
-    <div id="app">
+<!--    <div id="app">
       <img src="./assets/wiley-wordmark.png">
-      <!--<h1>{{ msg }}</h1>-->
-    </div>
+      &lt;!&ndash;<h1>{{ msg }}</h1>&ndash;&gt;
+    </div>-->
     <app-header></app-header>
+<!--
     <app-footer></app-footer>
+-->
   </div>
 
 </template>
@@ -30,29 +32,13 @@ export default {
 <style>
 
 #container {
-background-color: moccasin;
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #000000;
-  margin-top: 20px;
-}
-h1, h2 {
-  font-weight: normal;
+
+/* this is temporary for header */
+/*background-color: moccasin;*/
+/*border-width: 1px;*/
+/*border-style: solid;*/
+/*border-color: #1b1c1d;*/
+
 }
 
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-li {
-  display: inline-block;
-  margin: 0 20px;
-}
-
-a {
-  color: #86b983;
-}
 </style>
